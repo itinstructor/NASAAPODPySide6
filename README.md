@@ -5,7 +5,7 @@ NASA Astronomy Photo of the Day
 Example project for Intro to Computer Science 1 Think Aloud Individual Project.
 
 ## Requirements
- Python 3.10.8
+ Python 3.11.4
  PySide 6.4.0.1
  - pip install pyside6
  - pip install requests
@@ -45,4 +45,4 @@ V1 GUI
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-Copyright (c) 2022 William A Loring
+Copyright (c) 2023 William A Loring
